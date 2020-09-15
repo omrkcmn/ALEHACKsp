@@ -2,6 +2,7 @@
 
 <!--
 **ALEHACKsp/ALEHACKsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![lhaaspers's github stats](https://github-readme-stats.vercel.app/api?username=lhaasper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
