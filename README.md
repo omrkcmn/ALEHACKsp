@@ -5,9 +5,9 @@
 
 How to reach me? Social Networks:
 
-<a href="https://discord.gg/ZXqtNbm">
+<a href="https://discord.gg/mdF4Dr9">
   <code><img alt="Hideaki's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
-
+</a>
 
 [![ALEHACKsp github stats](https://github-readme-stats.vercel.app/api?username=ALEHACKsp&show_icons=true&theme=dracula)](https://github.com/ALEHACKsp/github-readme-stats) 
 
