@@ -54,7 +54,7 @@
 
 ### ⚡ Github Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ALEHACKsp&show_icons=true&hide_border=true" />
-
 [website]: https://github.com/ALEHACKsp
 [youtube]: https://www.youtube.com/user/iknowjesusnow/featured?view_as=subscriber
+
+
