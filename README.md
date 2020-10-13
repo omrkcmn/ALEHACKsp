@@ -1,16 +1,16 @@
-### Hi there, I'm [a][website] 👋
+### Hi there, I'm [ALEHACKsp][website] 👋
 
 [![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/ALEHACKsp)
 [![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/ALEHACKsp)
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=gqvrByO9yNU&ab_channel=AleMaoGamES)
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a New Projects In C++
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love YouTube
+- ⚡ Fun fact: I love YouTube and Programming
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
