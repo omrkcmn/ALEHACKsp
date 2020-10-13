@@ -1,7 +1,7 @@
 ### Hi there, I'm [a][website] 👋
 
-[![Website](https://img.shields.io/website?label=gamechampcrafted.github.io&style=for-the-badge&url=https%3A%2F%2Fgamechampcrafted.github.io)](https://gamechampcrafted.github.io)
-[![Github Follow](https://img.shields.io/github/followers/gamechampcrafted?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/GameChampCrafted)
+[![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/ALEHACKsp)
+[![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/ALEHACKsp)
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-LIVESTREAMS-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCoW5Tj5FPCneUmwfmbAgmRA?sub_confirmation=1)
 
 ## I'm a Student, Developer!
@@ -51,3 +51,10 @@
 4. ❗️ Opened issue [#43](https://github.com/MrPotatoBobx/FetchCord/issues/43) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 5. ❗️ Opened issue [#1937](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1937) in [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com//MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 <!--END_SECTION:activity-->
+
+### ⚡ Github Stats
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ALEHACKsp&show_icons=true&hide_border=true" />
+
+[website]: https://github.com/ALEHACKsp
+[youtube]: https://www.youtube.com/user/iknowjesusnow/featured?view_as=subscriber
