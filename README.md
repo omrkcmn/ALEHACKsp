@@ -12,6 +12,16 @@
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love YouTube and Programming
 
+## ⚡ Find  Me on
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src=https://img.shields.io/badge/Discord-chrge%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = +InCOD3(VICTOR)#3940'>
+	</a>
+</div>
+
+<hr>
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ipgwxdxoxe37yfbxt2pvcea)
 
