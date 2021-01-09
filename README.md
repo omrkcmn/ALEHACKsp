@@ -1,7 +1,17 @@
 [![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://github.com/ALEHACKsp)<!-- If you want the template for my gif, email me! -->
 
 
-### Hi there, I'm [ALEHACKsp][website] 👋
+<h3><samp> Hi there, I'm [ALEHACKsp][website]  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
+         <img align="right" alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
+         width="170">
+      </a></samp></h3>👋
+
+</a>
+<a href="https://steamcommunity.com/id/ozias/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
+</a>
+
+</div>
 
 [![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/ALEHACKsp)
 [![Github Follow](https://img.shields.io/github/followers/ALEHACKsp?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/ALEHACKsp)
@@ -14,6 +24,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love YouTube and Programming
+
 
 ## ⚡ Find  Me on
 
@@ -71,5 +82,11 @@
 
 [website]: https://github.com/ALEHACKsp
 [youtube]: https://www.youtube.com/user/iknowjesusnow/featured?view_as=subscriber
+
+<div align="center">
+<img src="https://images.squarespace-cdn.com/content/v1/58c82bd115d5db6d9db3905f/1521757235321-3RSRJ9W26H3BYMIWL1IQ/ke17ZwdGBToddI8pDm48kLJD7A5eo1c_EUqdJxTdNzcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcbps3bEgXpM0SJ0h0aI7dzYPD3eAgYjebLC0WF7iWAczGfjqH6tCi8DvH2z_Xl2y_/line+divider.png?format=2500w" >
+
+#### Thank You 🙏🏼
+</div>
 
 
