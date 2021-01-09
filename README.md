@@ -19,7 +19,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-INCODE!%238634-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = INCODE!#8634 src="https://discord.gg/3mpCDM86cR"'>
+	<img src=https://img.shields.io/badge/Discord-INCODE!%238634-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = INCODE!#8634 [![Website](https://discord.gg/3mpCDM86cR)'>
 	</a>
 </div>
 
