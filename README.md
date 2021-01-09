@@ -1,10 +1,10 @@
 [![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://github.com/ALEHACKsp)<!-- If you want the template for my gif, email me! -->
 
 
-<h3><samp> Hi there, I'm [ALEHACKsp][website]  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
+<h3><samp> Hi there, I'm ALEHACKsp👋 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/mattszeto">
          <img align="right" alt="gif" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif"
          width="170">
-      </a></samp></h3>👋
+      </a></samp></h3>
 
 </a>
 <a href="https://steamcommunity.com/id/ozias/">
