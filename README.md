@@ -1,3 +1,6 @@
+[![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://github.com/ALEHACKsp)<!-- If you want the template for my gif, email me! -->
+
+
 ### Hi there, I'm [ALEHACKsp][website] 👋
 
 [![Website](https://img.shields.io/website?label=ALEHACKsp.github.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://github.com/ALEHACKsp)
@@ -64,22 +67,7 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/ALEHACKsp">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALEHACKsp&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="ALEHACKsp's stats" />
-<a href="https://github.com/ALEHACKsp?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEHACKsp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
-</h2>
-<br>
-<br>
-</a>
-<h3 align="center"> 
-<br>
-<br>
-Visitors<br>
-<img src="https://profile-counter.glitch.me/ytmcgamer/count.svg" />
-</h3>
-<br>
-<br>  
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 [website]: https://github.com/ALEHACKsp
 [youtube]: https://www.youtube.com/user/iknowjesusnow/featured?view_as=subscriber
